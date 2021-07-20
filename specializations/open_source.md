@@ -4,7 +4,7 @@ Pick one or more Open Source projects and contribute to them. Follow each projec
 
 | **Practice**                                                                                                                                                                    | **Status** | **Evidence** |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
-| Study [This site](https://opensource.guide/how-to-contribute/)                                                                                                                  |            |              |
+| Study [This site](https://opensource.guide/how-to-contribute/)                                                                                                                  |  DONE          |   DONE           |
 | Open Source Contribution                                                                                                                                                        |            |              |
 | Open Source Contribution                                                                                                                                                        |            |              |
 | Open Source Contribution                                                                                                                                                        |            |              |
