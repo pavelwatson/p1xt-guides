@@ -1,3 +1,115 @@
+## Junior developer
+
+### Tier X - Math Prep
+
+Math will be relevant throughout the guide. Begin it as you start the guide, and incrementally work through it alongside the guide. (You need not finish this before moving to tier 0, or tier 1, but be actively working on it alongside them.)
+
+| Courses                                                       | Status | Evidence |
+| :------------------------------------------------------------ | :----: | :------: |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         | 2000    |          |
+| [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |          |
+| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |          |
+| [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |          |
+
+### Tier X - Programming Prep Prep
+
+A very gentle introduction, complete if feel you would benefit from it, skip if you'd rather dive right into tier 0
+
+| Courses                                                                                                                                                               |   Status   |   Evidence   |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
+| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            | DONE     | skipped             |
+| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |       DONE     |    DONE          |
+| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |            |              |
+| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |              |
+| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |              |
+| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
+| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
+
+
+### Tier 0 - Full Stack Open
+
+Complete the [Deep Dive Into Modern Web Development - Full Stack Open 2020](https://fullstackopen.com/en) free online Fullstack course. You may elect to complete this specialization only once.
+
+| Courses                                                                                                                                                                         |   Status   |   Evidence   |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
+| Fundamentals of Web apps                                                                                                                                                        |    in-progress        |  in-progress            |
+| Introduction to React                                                                                                                                                           |            |              |
+| Communicating with server                                                                                                                                                       |            |              |
+| Programming a server with NodeJS and Express                                                                                                                                    |            |              |
+| Testing Express servers, user administration                                                                                                                                    |            |              |
+| Testing React apps                                                                                                                                                              |            |              |
+| State management with Redux                                                                                                                                                     |            |              |
+| React router, custom hooks, styling app with CSS and webpack                                                                                                                    |            |              |
+| GraphQL                                                                                                                                                                         |            |              |
+| Typescript                                                                                                                                                                      |            |              |
+| **Reading**                                                                                                                                                                     | **Status** | **Evidence** |
+| [Official React Docs](https://reactjs.org/docs/getting-started.html)                                                                                                            |            |              |
+| [Official Express Docs](https://expressjs.com/)                                                                                                                                 |            |              |
+| **Capstone**                                                                                                                                                                    | **Status** | **Evidence** |
+| Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
+
+
+
+
+### Tier 0 - App Academy Open
+
+Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp. See [FAQ](./faq.md) for alternatives.
+
+| Courses                                                                                                                                                               |   Status   |   Evidence   |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
+| Welcome To Coding                                                                                                                                                     |         DONE   | skipped             |
+| Full Stack Online - Intro to Programming                                                                                                                              |       DONE    |  LOOKED-THROUGH            |
+| Full Stack Online - Software Engineering Foundations                                                                                                                  |         in-progress   |              |
+| Full Stack Online - Ruby                                                                                                                                              |            |              |
+| Full Stack Online - SQL                                                                                                                                               |            |              |
+| Full Stack Online - Rails                                                                                                                                             |            |              |
+| Full Stack Online - JavaScript                                                                                                                                        |            |              |
+| Full Stack Online - React                                                                                                                                             |            |              |
+| Full Stack Online - Full Stack Project                                                                                                                                |            |              |
+| Full Stack Online - MERN Stack Curriculum                                                                                                                            |            |              |
+| Full Stack Online - Job Search                                                                                                                                        |            |              |
+| Full Stack Online - Docker                                                                                                                                            |            |              |
+| Full Stack Online - GraphQL                                                                                                                                           |            |              |
+| Full Stack Online - Data Structures and Algorithms                                                                                                                    |            |              |
+| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
+| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
+
+### Tier 1 - Getting Started
+
+Deepen understanding of Web Development and begin learning Computer Science topics.
+
+If you didn't do App Academy Open in Tier 0, please consider doing it as your Specialization in this Tier.
+
+| Courses                                                                                                                                                                                                |   Status   |   Evidence   |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
+| [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)                                                                               |            |              |
+| [How to Learn Math: For Students](https://www.edx.org/course/how-to-learn-math-for-students-2)                                                                                         |  in-progress           |   in-progress           |
+| [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)                                                                       |            |              |
+| Do this: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) (more rigorous)                                                               |            |              |
+| Or, this: [Khan Academy Calculus I](https://www.khanacademy.org/math/calculus-1) and [Khan Academy Calculus II](https://www.khanacademy.org/math/calculus-2) (a more gentle introduction)              |            |              |
+| [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)                                                                                                                        |            |              |
+| [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)                                                                                                                         |            |              |
+| [Software Testing](https://www.udacity.com/course/software-testing--cs258)                                                                                                                             |            |              |
+| [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)                                                                           |            |              |
+| **Reading**                                                                                                                                                                                            | **Status** | **Evidence** |
+| [MDN HTML - Advanced topics](https://developer.mozilla.org/en-US/docs/Web/HTML#Advanced_topics)                                                                                                        |            |              |
+| [MDN CSS - Reference - Key Concepts](https://developer.mozilla.org/en-US/docs/Web/CSS#Reference)                                                                                                       |            |              |
+| [MDN JavaScript - Tutorials - JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript#JavaScript_guide)                                                                              |            |              |
+| [You Don't Know JS: Get Started](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started)                                                                                                   |            |              |
+| [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures)                                                                                           |            |              |
+| [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)                |            |              |
+| **Practice**                                                                                                                                                                                           | **Status** | **Evidence** |
+| Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/)                                                                                                                         |            |              |
+| Complete [Google Kick Start 2018](https://codingcompetitions.withgoogle.com/kickstart/archive/2018)                                                                                                    |            |              |
+| Tier Programming Project                                                                                                                                                                               |            |              |
+| Tier Programming Project                                                                                                                                                                               |            |              |
+| **Specialization**                                                                                                                                                                                     | **Status** | **Evidence** |
+| Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization. |            |              |
+
+<br><br>
+
+
+
 # Computer Science and Programming - Version 4.0
 
 Please read the [FAQ](./faq.md) and note that there are [Tier Project Ideas](./project_ideas.md) to help you select projects.
@@ -59,89 +171,12 @@ Both tiers and specializations will require 'Tier Programming Projects', you are
 
 **Note:** In specializations, the Tier Programming Projects might have extra criteria (such as 'if you're doing a mobile app development specialization your projects must be mobile apps')
 
-## Junior developer
 
-### Tier X - Math Prep
 
-Math will be relevant throughout the guide. Begin it as you start the guide, and incrementally work through it alongside the guide. (You need not finish this before moving to tier 0, or tier 1, but be actively working on it alongside them.)
 
-| Courses                                                       | Status | Evidence |
-| :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |        |          |
-| [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |          |
-| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |          |
-| [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |          |
 
-### Tier X - Programming Prep Prep
 
-A very gentle introduction, complete if feel you would benefit from it, skip if you'd rather dive right into tier 0
 
-| Courses                                                                                                                                                               |   Status   |   Evidence   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |            |              |
-| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |            |              |
-| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |            |              |
-| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |              |
-| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |              |
-| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
-
-### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
-
-Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp. See [FAQ](./faq.md) for alternatives.
-
-| Courses                                                                                                                                                               |   Status   |   Evidence   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |            |              |
-| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
-| Full Stack Online - Ruby                                                                                                                                              |            |              |
-| Full Stack Online - SQL                                                                                                                                               |            |              |
-| Full Stack Online - Rails                                                                                                                                             |            |              |
-| Full Stack Online - JavaScript                                                                                                                                        |            |              |
-| Full Stack Online - React                                                                                                                                             |            |              |
-| Full Stack Online - Full Stack Project                                                                                                                                |            |              |
-| Full Stack Online - MERN Stack Curriculum                                                                                                                            |            |              |
-| Full Stack Online - Job Search                                                                                                                                        |            |              |
-| Full Stack Online - Docker                                                                                                                                            |            |              |
-| Full Stack Online - GraphQL                                                                                                                                           |            |              |
-| Full Stack Online - Data Structures and Algorithms                                                                                                                    |            |              |
-| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
-
-### Tier 1 - Getting Started
-
-Deepen understanding of Web Development and begin learning Computer Science topics.
-
-If you didn't do App Academy Open in Tier 0, please consider doing it as your Specialization in this Tier.
-
-| Courses                                                                                                                                                                                                |   Status   |   Evidence   |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)                                                                               |            |              |
-| [How to Learn Math: For Students](https://www.edx.org/course/how-to-learn-math-for-students-2)                                                                                          |            |              |
-| [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)                                                                       |            |              |
-| Do this: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) (more rigorous)                                                               |            |              |
-| Or, this: [Khan Academy Calculus I](https://www.khanacademy.org/math/calculus-1) and [Khan Academy Calculus II](https://www.khanacademy.org/math/calculus-2) (a more gentle introduction)              |            |              |
-| [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)                                                                                                                        |            |              |
-| [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)                                                                                                                         |            |              |
-| [Software Testing](https://www.udacity.com/course/software-testing--cs258)                                                                                                                             |            |              |
-| [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)                                                                           |            |              |
-| **Reading**                                                                                                                                                                                            | **Status** | **Evidence** |
-| [MDN HTML - Advanced topics](https://developer.mozilla.org/en-US/docs/Web/HTML#Advanced_topics)                                                                                                        |            |              |
-| [MDN CSS - Reference - Key Concepts](https://developer.mozilla.org/en-US/docs/Web/CSS#Reference)                                                                                                       |            |              |
-| [MDN JavaScript - Tutorials - JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript#JavaScript_guide)                                                                              |            |              |
-| [You Don't Know JS: Get Started](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started)                                                                                                   |            |              |
-| [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures)                                                                                           |            |              |
-| [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)                |            |              |
-| **Practice**                                                                                                                                                                                           | **Status** | **Evidence** |
-| Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/)                                                                                                                         |            |              |
-| Complete [Google Kick Start 2018](https://codingcompetitions.withgoogle.com/kickstart/archive/2018)                                                                                                    |            |              |
-| Tier Programming Project                                                                                                                                                                               |            |              |
-| Tier Programming Project                                                                                                                                                                               |            |              |
-| **Specialization**                                                                                                                                                                                     | **Status** | **Evidence** |
-| Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization. |            |              |
-
-<br><br>
 
 ## Intermediate Developer
 
@@ -163,7 +198,6 @@ Dive deeper into the Computer Science topics which will prove useful throughout 
 | [MDN HTTP - Tutorials](https://developer.mozilla.org/en-US/docs/Web/HTTP#Tutorials)                                                                                                                                |            |              |
 | [MDN Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_components)                                                                                                                                  |            |              |
 | [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)                                                         |            |              |
-| [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20&%20performance/README.md#you-dont-know-js-async--performance)                                                                  |            |              |
 | [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)                                                                  |            |              |
 | [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)                                                                                                                                  |            |              |
 | [D3 Tips and Tricks v3.x](https://leanpub.com/D3-Tips-and-Tricks/read#leanpub-auto-acknowledgements)                                                                                                               |            |              |
