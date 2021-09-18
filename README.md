@@ -1,7 +1,6 @@
 ## Junior developer
-
-### Tier X - Math Prep
-
+<details>
+  <summary>### Tier X - Math Prep</summary>
 Math will be relevant throughout the guide. Begin it as you start the guide, and incrementally work through it alongside the guide. (You need not finish this before moving to tier 0, or tier 1, but be actively working on it alongside them.)
 
 | Courses                                                       | Status | Evidence |
@@ -10,6 +9,8 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 | [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |          |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |          |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |          |
+  
+</details>
 
 ### Tier X - Programming Prep Prep
 
