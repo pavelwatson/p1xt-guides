@@ -13,8 +13,10 @@
 
 </details>
 
-### Tier X - Programming Prep Prep
 
+### Tier X - Programming Prep Prep
+<details>
+  <summary>Programming Prep</summary>
 A very gentle introduction, complete if feel you would benefit from it, skip if you'd rather dive right into tier 0
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
@@ -26,10 +28,12 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 | [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |              |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
+</details>
 
 
 ### Tier 0 - Full Stack Open
-
+<details>
+  <summary>Full Stack Open</summary>
 Complete the [Deep Dive Into Modern Web Development - Full Stack Open 2020](https://fullstackopen.com/en) free online Fullstack course. You may elect to complete this specialization only once.
 
 | Courses                                                                                                                                                                         |   Status   |   Evidence   |
@@ -49,12 +53,12 @@ Complete the [Deep Dive Into Modern Web Development - Full Stack Open 2020](http
 | [Official Express Docs](https://expressjs.com/)                                                                                                                                 |            |              |
 | **Capstone**                                                                                                                                                                    | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
-
-
+</details>
 
 
 ### Tier 0 - App Academy Open
-
+<details>
+  <summary>App Academy</summary>
 Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp. See [FAQ](./faq.md) for alternatives.
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
@@ -75,9 +79,12 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | Full Stack Online - Data Structures and Algorithms                                                                                                                    |            |              |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
+</details>
+
 
 ### Tier 1 - Getting Started
-
+<details>
+  <summary>---</summary>
 Deepen understanding of Web Development and begin learning Computer Science topics.
 
 If you didn't do App Academy Open in Tier 0, please consider doing it as your Specialization in this Tier.
@@ -107,7 +114,7 @@ If you didn't do App Academy Open in Tier 0, please consider doing it as your Sp
 | Tier Programming Project                                                                                                                                                                               |            |              |
 | **Specialization**                                                                                                                                                                                     | **Status** | **Evidence** |
 | Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization. |            |              |
-
+</details>
 <br><br>
 
 
